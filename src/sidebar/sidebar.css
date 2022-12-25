@@ -1,0 +1,8 @@
+.Sidebar{
+    background: darkslategray;
+    color:white;
+    position: fixed;
+    z-index: 2;
+    height: 100%;
+    width: calc(21% + 100px);
+}

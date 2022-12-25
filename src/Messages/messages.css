@@ -1,0 +1,6 @@
+.Messages{
+    position: absolute;
+    left: calc(21% + 100px);
+    width: calc(79% - 100px);
+    color: black;
+}

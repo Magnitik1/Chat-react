@@ -1,0 +1,18 @@
+.textline{
+    position:fixed;
+    z-index: 3;
+    bottom: 1px;
+    left: calc(21% + 100.5px);
+    width: calc(79% - 240.5px);
+    height: 40px;
+    font-size: 30px;
+}
+.sendB{
+    position:fixed;
+    z-index: 3;
+    right:0;
+    width: 132px;
+    bottom: 1px;
+    height: 46.6px;
+    font-size: 35px;
+}
